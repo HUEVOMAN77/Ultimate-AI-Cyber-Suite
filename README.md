@@ -7,7 +7,6 @@
 ✔ Notas extra
 ✔ Estilo hacker/pro moderno
 
-👉 SOLO COPIA Y PEGA ESTO EN TU README.md
 
 
 ---
