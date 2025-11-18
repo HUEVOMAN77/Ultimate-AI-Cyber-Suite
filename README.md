@@ -280,10 +280,7 @@ Telegram:
 Actualizaciones constantes, nuevas funciones y más módulos próximamente.
 
 
----
+este proyecto es solo con fines educativos, no me hago cargo de malas intenciones 
 
-Si quieres, puedo:
-🔥 Mejorar aún más el README
-🔥 Añadir imágenes, banners o ASCII Art
-🔥 Añadir un changelog profesional
-🔥 Añadir un instalador automático (setup.sh)
+-----
+HUEVOMAN77 🔥✌️✌️
